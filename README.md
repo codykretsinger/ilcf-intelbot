@@ -66,7 +66,7 @@ This bot is designed to run in a container (Podman recommended on RHEL/CentOS).
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/codykretsinger/ilcf-intel-bot
+git clone https://github.com/codykretsinger/ilcf-intelbot
 cd ilcf-intel-bot
 ```
 

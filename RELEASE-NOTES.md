@@ -76,7 +76,7 @@ All notable releases are documented here. Releases are listed from **newest to o
 
 ---
 
-## v2.7 - Modular Architecture & Performance (December 26, 2025)
+## v2.7 - Modular Architecture & Performance
 
 **Release Focus:** Complete architectural refactor, performance optimization, new analytical features
 
@@ -161,7 +161,7 @@ Tested on 1,000 queries over 8 hours:
 
 ---
 
-## v2.6 - Quick Wins Release (December 26, 2025)
+## v2.6
 
 **Release Focus:** Critical bug fixes, input validation, production logging
 
@@ -220,19 +220,9 @@ Tested on 1,000 queries over 8 hours:
 
 ---
 
-## Release History
-
-| Version | Release Date | Codename | Focus |
-|---------|--------------|----------|-------|
-| v2.8 | Dec 26, 2025 | Community & Compliance | RBAC, API limits, exports |
-| v2.7 | Dec 26, 2025 | Medium Effort Wins | Architecture, performance |
-| v2.6 | Dec 26, 2025 | Quick Wins | Bug fixes, validation |
-
----
-
 ## Getting Help
 
-- **Issues**: https://github.com/ILCF-BSides/intel-butt/issues
+- **Issues**: https://github.com/codykretsinger/ilcf-intelbot/issues
 - **Slack**: #intel-sharing channel
 - **Documentation**: See project root directory
 

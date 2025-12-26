@@ -1,0 +1,6 @@
+slack_bolt
+requests
+python-dotenv
+shodan
+python-whois
+filelock

@@ -80,9 +80,7 @@ All notable changes to this project are documented here. Versions are listed fro
 
 ---
 
-## v2.7 - Modular Architecture & Performance (2025-12-26)
-
-**Codename:** "Medium Effort Wins"
+## v2.7 - 
 
 ### ✨ New Features
 
@@ -171,7 +169,7 @@ Tested on 1,000 queries over 8 hours:
 
 ---
 
-## v2.6 - Quick Wins Release (2025-12-26)
+## v2.6 
 
 ### 🐛 Bug Fixes
 
@@ -296,15 +294,5 @@ LOG_DIR=logs  # Directory for log files (default: "logs")
 
 ---
 
-## Release History
-
-| Version | Release Date | Codename | Focus |
-|---------|--------------|----------|-------|
-| v2.8 | Dec 26, 2025 | Community & Compliance | RBAC, API limits, exports |
-| v2.7 | Dec 26, 2025 | Medium Effort Wins | Architecture, performance |
-| v2.6 | Dec 26, 2025 | Quick Wins | Bug fixes, validation |
-
----
-
-**Contributors:** Claude Code + Cody Kretsinger
+**Contributors:** Cody Kretsinger
 **License:** MIT License - Copyright (c) 2022-2025 Illinois Cyber Foundation, Inc.
